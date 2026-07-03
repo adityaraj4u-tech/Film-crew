@@ -1,0 +1,6 @@
+{
+  "name": "Film Crew",
+  "description": "Hire professional film production crew members like cameramen, actors, ward boys, and more. Free profile creation for directors and crew with sample work and experience sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
